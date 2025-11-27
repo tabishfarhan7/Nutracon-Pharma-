@@ -41,7 +41,7 @@ Nutracon Pharma is a sleek and responsive website for a pharmaceutical brand. It
    git clone https://github.com/tabishfarhan7/Nutracon-Pharma.git
 
 
-
+```
 
 NUTRACON-PHARMA-
 │
@@ -62,7 +62,7 @@ NUTRACON-PHARMA-
 └── README.md # Project documentation
 
 
-
+```
 
 
 🔮 Upcoming Additions
